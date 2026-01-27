@@ -1,3 +1,6 @@
 [submodule "Agile"]
 	path = Agile
 	url = https://github.com/Akash073-hub/Agile
+[submodule "Mobile-Application-development"]
+	path = Mobile-Application-development
+	url = https://github.com/Akash073-hub/Mobile-Application-development.git
